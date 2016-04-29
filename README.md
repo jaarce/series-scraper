@@ -6,8 +6,9 @@
 
 **To run the application**
 
-cd src
-python server.py
+`cd src`
+
+`python server.py`
 
 **To use it**
 
