@@ -1,6 +1,6 @@
 ## EZTV series scraper using Falcon and Beautiful Soup ##
 
-**To start **
+**To start**
 
 `pip install -r requirements.txt`
 
