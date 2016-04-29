@@ -12,7 +12,7 @@
 
 **To use it**
 
-http://localhost:8002/search/<tv-show>
+`http://localhost:8002/search/<tv-show>`
 
 
 ----------
